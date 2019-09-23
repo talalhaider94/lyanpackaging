@@ -1,0 +1,152 @@
+#bio_ep_bg {
+	background-color: rgba(23, 64, 69, 0.75);
+	z-index: 10001;
+	opacity: 1;
+	transition: all 0.6s ease-in-out;
+} // background
+#bio_ep {
+	width: 901px;
+	height: 514px;
+	-webkit-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	#bio_ep_close {
+		position: absolute;
+		left: initial;
+		margin: 0;
+		width: 44px;
+		height: 44px;
+		font-weight: 700;
+		text-align: center;
+		border-radius: 0;
+		background-color: #1a4045;
+		cursor: pointer;
+		font-size: 30px;
+		color: rgb(255,255,255);
+		font-family: "Cantarell";
+		right: 0px;
+		top: 0px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		line-height: 0;
+	} // close button
+	.flexCnt {
+		display: flex;
+		justify-content: center;
+		flex-direction: row;
+		flex: 1;
+		flex-wrap: wrap;
+		height: 100%;
+	}
+	.boxTitle{
+		background-color: #9ac151;
+		width: 100%;
+		text-align: center;
+		display: flex;
+		flex-flow: column wrap;
+		justify-content: center;
+		align-items: center;
+		padding: 6px 0 18px 0;
+		h2{
+			font-size: 102px;
+			color: rgb(255,255,255);
+			font-family: "Cantarell";
+			font-weight: bold;
+			line-height: 1;		
+			margin-bottom: 13px;
+			margin-top: 5px;
+		}
+		.paragraphColor{
+			font-size: 34px;
+			color: rgb(26,64,69);
+			font-family: "Cantarell";
+			font-weight: bold;
+			line-height: 1;		
+			margin-bottom: 14px;	
+		}
+		.paragraph{
+			font-size: 19.5px;
+			color: rgb(255,255,255);
+			font-family: "Cantarell";
+			font-weight: bold;
+			line-height: 1;			
+		}
+	}
+	.boxCode{
+		width: 100%;
+		text-align: center;
+		background-color: #1a4045;
+		display: flex;
+		flex-flow: column wrap;
+		justify-content: center;
+		align-items: center;
+		height: 63px;
+		p.paragraph{
+			font-size: 38px;
+			color: rgb(255,255,255);
+			font-family: "Cantarell";
+			font-weight: bold;
+			line-height: 1;
+			span.code{
+				color: #9ac151;
+			}			
+		}
+	}
+	.boxOffer{
+		text-align: center;
+		background-color: #fff;
+		display: flex;
+		flex-flow: column wrap;
+		justify-content: center;
+		align-items: center;
+		p.paragraph{
+			font-size: 29.5px;
+			color: #9ac151;
+			font-family: "Cantarell";	
+			line-height: 1;	
+			margin-bottom: 15px;
+		}
+		p.sub{
+			font-size: 17.5px;
+			color: rgb(26,64,69);
+			font-family: "Cantarell";
+			line-height: 1;	
+			margin-bottom: 21px;		
+		}
+		a{
+			font-size: 20.5px;
+			color: rgb(255,255,255);
+			font-family: "Raleway";
+			font-weight: bold;
+			width: 190px;
+			height: 52px;
+			background-color: #1a4045;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin-bottom: 20px;
+			transition: all 0.3s ease-in-out;	
+			&:hover{
+				background: #9ac151;
+			}
+		}
+	}
+	.boxConditions{
+		width: 100%;
+		text-align: center;
+		background-color: #9ac151;
+		display: flex;
+		flex-flow: column wrap;
+		justify-content: center;
+		align-items: center;
+		height: 50px;
+		margin-top: auto;
+		p{
+			color: rgb(255,255,255);
+			font-size: 12px;
+		}
+	}
+} // popup
+
+
+

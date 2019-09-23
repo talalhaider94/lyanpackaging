@@ -1,0 +1,196 @@
+[20-Nov-2018 03:29:13 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:49 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:49 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:50 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:50 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:58 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:58 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:59 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:31:59 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:32:15 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:32:15 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:32:16 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[11-Dec-2018 20:32:16 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[08-Mar-2019 13:49:50 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[08-Mar-2019 13:49:50 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[08-Mar-2019 13:49:53 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[08-Mar-2019 13:49:53 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[08-Mar-2019 13:49:55 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[08-Mar-2019 13:49:55 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[08-Mar-2019 13:49:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[08-Mar-2019 13:49:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:14 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:14 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:15 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:15 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:17 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:17 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:23 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:23 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:25 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:25 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:26 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:26 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:27 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:27 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:28 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:28 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:31 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:31 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2019 12:36:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/bridge/index.php on line 1

@@ -1,0 +1,26 @@
+.dh-popup-log-list{
+	
+}
+.dh-popup-log-list th.log-id{
+	width: 5%;
+}
+.dh-popup-log-list th.log-ip{
+	width: 15%;
+}
+.dh-popup-log-read td,.dh-popup-log-read th{
+	background: none repeat scroll 0 0 #fffff9;
+    border-bottom: 1px solid #e1e1e1;
+}
+.dh-popup-log-icon{
+	display: inline-block;
+    float: right;
+    height: 32px;
+    vertical-align: middle;
+    width: 32px;
+}
+.dh-popup-log-icon-read{
+	background: url("../images/unread.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.dh-popup-log-icon-unread{
+	background: url("../images/read.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}

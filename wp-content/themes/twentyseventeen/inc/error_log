@@ -1,0 +1,8 @@
+[06-Dec-2018 11:27:20 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lyanpackagingco/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 22:18:04 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/lyanpackagingco/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/lyanpackagingco/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22

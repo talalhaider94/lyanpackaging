@@ -1,0 +1,122 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.6.9
+  http://backwpup.com
+  Blog Name: Lyan Packaging Supplies
+  Blog URL: https://www.lyanpackaging.co.uk
+  Generated on: 2019-05-15 08:01.38
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Advanced Custom Fields PRO (v.5.3.7) from Elliot Condon
+	http://www.advancedcustomfields.com/
+BackWPup (v.3.6.9) from Inpsyde GmbH
+	http://backwpup.com
+Contact Form 7 (v.5.0.4) from Takayuki Miyoshi
+	https://contactform7.com/
+Cookie Consent (v.2.3.11) from Catapult_Themes
+	https://catapultthemes.com/cookie-consent/
+DHPopup - Popup Builder for Visual Composer (v.1.0.5) from Sitesao team
+	http://sitesao.com/
+Duplicate Post (v.3.2.2) from Enrico Battocchi
+	https://duplicate-post.lopo.it/
+Duplicator (v.1.2.48) from Snap Creek
+	https://snapcreek.com/duplicator/duplicator-free/
+Envato Market (v.2.0.1) from Envato
+	https://envato.com/market-plugin/
+Flamingo (v.1.9) from Takayuki Miyoshi
+	
+Google Analytics (v.2.1.4) from ShareThis
+	http://wordpress.org/extend/plugins/googleanalytics/
+Insert Headers and Footers (v.1.4.3) from WPBeginner
+	http://www.wpbeginner.com/
+Invisible reCaptcha (v.1.2.1) from Mihai Chelaru
+	
+LayerSlider WP (v.6.7.1) from Kreatura Media
+	https://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin-/1362246
+Leaflet Map (v.2.11.4) from bozdoz
+	https://wordpress.org/plugins/leaflet-map/
+Limit Login Attempts (v.1.7.1) from Johan Eenfeldt
+	http://devel.kostdoktorn.se/limit-login-attempts
+LiteSpeed Cache (v.2.6.0.1) from LiteSpeed Technologies
+	https://www.litespeedtech.com/products/cache-plugins/wordpress-acceleration
+MailChimp for WordPress (v.4.2.5) from ibericode
+	https://mc4wp.com/#utm_source=wp-plugin&utm_medium=mailchimp-for-wp&utm_campaign=plugins-page
+OSM (v.4.1.2) from MiKa
+	http://wp-osm-plugin.HanBlog.net
+Qode Instagram Widget (v.1.2.1) from Qode Themes
+	
+Qode Twitter Feed (v.1.1) from Qode Themes
+	
+Redirection (v.3.5) from John Godley
+	https://redirection.me/
+Reusable Content & Text Blocks by Loomisoft (v.1.4.3) from Loomisoft
+	http://www.loomisoft.com/reusable-content-text-blocks-wordpress-plugin/
+Slider Revolution (v.5.4.7.3) from ThemePunch
+	http://revolution.themepunch.com/
+TinyMCE Advanced (v.4.8.0) from Andrew Ozz
+	http://www.laptoptips.ca/projects/tinymce-advanced/
+Ultimate Addons for Visual Composer (v.3.16.19) from Brainstorm Force
+	https://brainstormforce.com/demos/ultimate/
+WooCommerce (v.3.3.5) from Automattic
+	https://woocommerce.com/
+WooCommerce Dynamic Pricing (v.3.1.6) from Lucas Stark
+	https://woocommerce.com/products/dynamic-pricing/
+WooCommerce Min/Max Quantities (v.2.3.12) from WooThemes
+	http://woothemes.com/woocommerce
+WooCommerce PayPal Express Checkout Gateway (v.1.5.3) from WooCommerce
+	https://woocommerce.com/products/woocommerce-gateway-paypal-express-checkout/
+WooCommerce PDF Invoices & Packing Slips (v.2.1.10) from Ewout Fernhout
+	http://www.wpovernight.com
+WooCommerce Stripe Gateway (v.4.1.2) from WooCommerce
+	https://wordpress.org/plugins/woocommerce-gateway-stripe/
+WooCommerce Table Rate Shipping (v.3.0.9) from WooCommerce
+	https://woocommerce.com/products/table-rate-shipping/
+Wordfence Security (v.7.1.15) from Wordfence
+	http://www.wordfence.com/
+WPBakery Page Builder (v.5.4.7) from Michael M - WPBakery.com
+	http://wpbakery.com
+Yoast SEO (v.8.3) from Team Yoast
+	https://yoa.st/1uj
+
+Active plugins:
+------------------------------
+Advanced Custom Fields PRO
+BackWPup
+Contact Form 7
+Cookie Consent
+DHPopup - Popup Builder for Visual Composer
+Duplicate Post
+Duplicator
+Envato Market
+Flamingo
+Google Analytics
+Insert Headers and Footers
+Invisible reCaptcha
+LayerSlider WP
+Leaflet Map
+Limit Login Attempts
+MailChimp for WordPress
+Qode Instagram Widget
+Qode Twitter Feed
+Redirection
+Reusable Content & Text Blocks by Loomisoft
+Slider Revolution
+TinyMCE Advanced
+Ultimate Addons for Visual Composer
+WooCommerce
+WooCommerce Dynamic Pricing
+WooCommerce Min/Max Quantities
+WooCommerce PayPal Express Checkout Gateway
+WooCommerce PDF Invoices & Packing Slips
+WooCommerce Stripe Gateway
+WooCommerce Table Rate Shipping
+Wordfence Security
+WPBakery Page Builder
+Yoast SEO
+
+Inactive plugins:
+------------------------------
+LiteSpeed Cache
+OSM

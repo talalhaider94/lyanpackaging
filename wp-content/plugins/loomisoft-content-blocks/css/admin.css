@@ -1,0 +1,262 @@
+/**
+ * Reusable Content & Text Blocks Plugin by Loomisoft - Admin CSS
+ * Copyright (c) 2017 Loomisoft (www.loomisoft.com)
+ */
+
+.ls-cb-clearfix:before,
+.ls-cb-clearfix:after {
+	content: ' ';
+	display: table;
+}
+
+.ls-cb-clearfix:after {
+	clear: both;
+}
+
+.ls-cb-admin-info-page-row {
+}
+
+.ls-cb-admin-info-page-column-half {
+	width: 50%;
+	float: left;
+}
+
+.ls-cb-admin-info-page-column-third {
+	width: 33.333%;
+	float: left;
+}
+
+.ls-cb-admin-info-page-column-inner {
+	padding: 0 0 0 20px;
+}
+
+.ls-cb-admin-info-page-column-content {
+	padding: 21px 20px 9px 20px;
+}
+
+.ls-cb-admin-info-page-column-content h2 {
+	margin-top: 0 !important;
+}
+
+.ls-cb-admin-info-page-column-content p, .ls-cb-admin-info-page-column-content li, .ls-cb-admin-info-page-column-content pre {
+	font-size: 1.1em !important;
+	line-height: 1.3em !important;
+}
+
+.ls-cb-admin-info-page-column-half:first-child .ls-cb-admin-info-page-column-inner {
+	padding-left: 0;
+}
+
+.ls-cb-admin-info-page-column-third:first-child .ls-cb-admin-info-page-column-inner {
+	padding-left: 0;
+}
+
+.ls-cb-admin-info-page-column-half:last-child .ls-cb-admin-info-page-column-inner {
+	padding-right: 0;
+}
+
+.ls-cb-admin-info-page-column-third:last-child .ls-cb-admin-info-page-column-inner {
+	padding-right: 0;
+}
+
+@media screen and (max-width: 768px) {
+	.ls-cb-admin-info-page-column-half {
+		width: 100%;
+		float: none;
+	}
+
+	.ls-cb-admin-info-page-column-third {
+		width: 100%;
+		float: none;
+	}
+
+	.ls-cb-admin-info-page-column-inner {
+		padding: 0;
+	}
+}
+
+#ls-cb-admin-branding {
+	margin: 10px 0;
+}
+
+#ls-cb-admin-branding img {
+	max-width: 100%;
+	margin: 0 !important;
+	padding: 0 !important;
+	border: none !important;
+}
+
+#ls-cb-admin-branding-right {
+	margin: 0 0 0 20px;
+	float: right;
+}
+
+#ls-cb-admin-branding-right a, #ls-cb-admin-branding-right a:link, #ls-cb-admin-branding-right a:active, #ls-cb-admin-branding-right a:visited, #ls-cb-admin-branding-right a:hover {
+	margin: 0 !important;
+	padding: 0 !important;
+	border: none !important;
+}
+
+#ls-cb-admin-branding-right img {
+	max-width: 100%;
+	margin: 0 0 0 20px !important;
+	padding: 0 !important;
+	border: none !important;
+}
+
+.ls-cb-admin-button-container {
+	margin: 10px 0;
+	padding: 0;
+	border: none;
+	background: none;
+}
+
+.ls-cb-admin-button-link, .ls-cb-admin-button-link:link, .ls-cb-admin-button-link:active, .ls-cb-admin-button-link:visited {
+	width: 160px !important;
+	margin: 0 !important;
+	padding: 7px 5px !important;
+	border: 0 solid #17675a !important;
+	-webkit-border-radius: 2px !important;
+	-moz-border-radius: 2px !important;
+	border-radius: 2px !important;
+	background: #3ebcc2 !important;
+	color: #ffffff !important;
+	text-align: center !important;
+	font-weight: normal !important;
+	font-style: normal !important;
+	line-height: 1.5em !important;
+	text-decoration: none !important;
+	display: block !important;
+	transition: all 0.2s linear !important;
+	-webkit-box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+}
+
+.ls-cb-admin-button-link:hover {
+	width: 160px !important;
+	margin: 0 !important;
+	padding: 7px 5px !important;
+	border: 0 solid #17675a !important;
+	-webkit-border-radius: 2px !important;
+	-moz-border-radius: 2px !important;
+	border-radius: 2px !important;
+	background: #17675a !important;
+	color: #ffffff !important;
+	text-align: center !important;
+	font-weight: normal !important;
+	font-style: normal !important;
+	line-height: 1.5em !important;
+	text-decoration: none !important;
+	display: block !important;
+	transition: all 0.2s linear !important;
+	-webkit-box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+}
+
+i.ls-cb-mce-icon {
+	background-image: url('../images/ls-wp-mce-icon.png');
+}
+
+.ls-cb-notice h2 {
+	margin-top: 0 !important;
+}
+
+.ls-cb-notice-hide-container {
+	margin-bottom: 0 !important;
+	display: none;
+}
+
+.ls-cb-dialog .ui-dialog-titlebar:before {
+	width: 20px;
+	height: 20px;
+	margin: 3px 3px -3px -3px;
+	border: none;
+	background: url('../images/ls-wp-mce-icon.png');
+	background-size: cover;
+	display: inline-block;
+}
+
+.ls-cb-dialog .ls-cb-mce-field-container {
+	min-height: 35px;
+	margin: 10px 0 0;
+}
+
+.ls-cb-dialog .ls-cb-mce-label {
+	margin: 0 0 3px;
+}
+
+.ls-cb-dialog .ls-cb-mce-label label {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.ls-cb-dialog .ls-cb-mce-field .ls-cb-text-input {
+	width: 100% !important;
+	margin-top: 0 !important;
+}
+
+.ls-cb-dialog .ls-cb-mce-field .ls-cb-select-input {
+	width: 100% !important;
+	margin-top: -3px !important;
+}
+
+.ls-cb-dialog .ls-cb-mce-field-radio {
+	margin-top: 2px !important;
+	float: left;
+}
+
+.ls-cb-dialog .ls-cb-mce-field-radio-label {
+	margin-top: 1px !important;
+	margin-left: 5px !important;
+	margin-right: 15px;
+	float: left;
+}
+
+.ls-cb-dialog .ls-cb-mce-button-blue, .ls-cb-dialog .ls-cb-mce-button-blue:link, .ls-cb-dialog .ls-cb-mce-button-blue:active, .ls-cb-dialog .ls-cb-mce-button-blue:visited {
+	width: 100px !important;
+	margin: 0 !important;
+	padding: 7px 5px !important;
+	border: 0 solid #17675a !important;
+	-webkit-border-radius: 2px !important;
+	-moz-border-radius: 2px !important;
+	border-radius: 2px !important;
+	background: #3ebcc2 !important;
+	color: #ffffff !important;
+	text-align: center !important;
+	font-weight: normal !important;
+	font-style: normal !important;
+	line-height: 1.5em !important;
+	text-decoration: none !important;
+	display: block !important;
+	transition: all 0.2s linear !important;
+	-webkit-box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	float: right !important;
+}
+
+.ls-cb-dialog .ls-cb-mce-button-blue:hover {
+	width: 100px !important;
+	margin: 0 !important;
+	padding: 7px 5px !important;
+	border: 0 solid #17675a !important;
+	-webkit-border-radius: 2px !important;
+	-moz-border-radius: 2px !important;
+	border-radius: 2px !important;
+	background: #17675a !important;
+	color: #ffffff !important;
+	text-align: center !important;
+	font-weight: normal !important;
+	font-style: normal !important;
+	line-height: 1.5em !important;
+	text-decoration: none !important;
+	display: block !important;
+	transition: all 0.2s linear !important;
+	-webkit-box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.75);
+	float: right !important;
+}
+

@@ -1,0 +1,1436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DHPopup\n"
+"POT-Creation-Date: 2017-09-12 00:18+0700\n"
+"PO-Revision-Date: 2017-09-12 00:18+0700\n"
+"Last-Translator: \n"
+"Language-Team: Sitesao\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;esc_html_e;_e;esc_attr_e;"
+"esc_attr__;esc_html__\n"
+"X-Poedit-Basepath: /Volumes/WORK/webserver/www/wordpress/wp-content/plugins\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: dh_popup\n"
+"X-Poedit-SearchPathExcluded-0: dh_popup/assets\n"
+
+#: dh_popup/includes/admin.php:53 dh_popup/includes/editor.php:80
+msgid "Popup Builder"
+msgstr ""
+
+#: dh_popup/includes/admin.php:139 dh_popup/includes/campaign.php:48
+msgid "Delete this item permanently"
+msgstr ""
+
+#: dh_popup/includes/admin.php:139 dh_popup/includes/campaign.php:48
+msgid "Delete Permanently"
+msgstr ""
+
+#: dh_popup/includes/admin.php:157 dh_popup/includes/campaign.php:66
+#: dh_popup/includes/log.php:291
+msgid "ID"
+msgstr ""
+
+#: dh_popup/includes/admin.php:158 dh_popup/includes/campaign.php:67
+msgid "Title"
+msgstr ""
+
+#: dh_popup/includes/admin.php:159 dh_popup/includes/analytics.php:235
+#: dh_popup/includes/campaign.php:68
+msgid "Impressions"
+msgstr ""
+
+#: dh_popup/includes/admin.php:160 dh_popup/includes/analytics.php:241
+#: dh_popup/includes/campaign.php:69
+msgid "Conversions"
+msgstr ""
+
+#: dh_popup/includes/admin.php:161 dh_popup/includes/campaign.php:70
+msgid "Rate"
+msgstr ""
+
+#: dh_popup/includes/admin.php:162 dh_popup/includes/log.php:296
+msgid "Status"
+msgstr ""
+
+#: dh_popup/includes/admin.php:177
+msgid "Click to change status"
+msgstr ""
+
+#: dh_popup/includes/admin.php:179 dh_popup/includes/meta-box.php:276
+msgid "Disable"
+msgstr ""
+
+#: dh_popup/includes/admin.php:181
+msgid "Enable"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:81
+msgid "Popup Analytics"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:81 dh_popup/includes/analytics.php:189
+msgid "Analytics"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:89 dh_popup/includes/log.php:64
+#: dh_popup/includes/settings.php:311 dh_popup/includes/targeting.php:104
+msgid "Loading data&hellip;"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:92 dh_popup/includes/log.php:68
+#: dh_popup/includes/meta-box.php:33 dh_popup/includes/meta-box.php:36
+#: dh_popup/includes/meta-box.php:39 dh_popup/includes/meta-box.php:42
+#: dh_popup/includes/meta-box.php:45 dh_popup/includes/meta-box.php:48
+#: dh_popup/includes/meta-box.php:51 dh_popup/includes/meta-box.php:54
+#: dh_popup/includes/meta-box.php:57 dh_popup/includes/meta-box.php:60
+#: dh_popup/includes/settings.php:118 dh_popup/includes/settings.php:160
+#: dh_popup/includes/settings.php:177 dh_popup/includes/settings.php:190
+#: dh_popup/includes/settings.php:203 dh_popup/includes/settings.php:221
+#: dh_popup/includes/settings.php:239 dh_popup/includes/settings.php:260
+#: dh_popup/includes/settings.php:272 dh_popup/includes/settings.php:290
+#: dh_popup/includes/settings.php:296 dh_popup/includes/settings.php:314
+#: dh_popup/includes/targeting.php:107
+msgid "Nothing Found&hellip;"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:93 dh_popup/includes/log.php:65
+msgid "Are your sure?"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:132 dh_popup/includes/targeting.php:121
+msgid "Popup: "
+msgstr ""
+
+#: dh_popup/includes/analytics.php:140 dh_popup/includes/targeting.php:129
+msgid "Campaign: "
+msgstr ""
+
+#: dh_popup/includes/analytics.php:158
+msgid "All popup"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:194 dh_popup/includes/meta-box.php:458
+msgid "Select Popup"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:197 dh_popup/includes/log.php:326
+msgid "All"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:208
+msgid "From date (yy-mm-dd)"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:214
+msgid "To date (yy-mm-dd)"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:219 dh_popup/includes/log.php:335
+#: dh_popup/includes/log.php:427
+msgid "Apply"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:222
+msgid "Clear Analytics data"
+msgstr ""
+
+#: dh_popup/includes/analytics.php:266
+msgid "Rate: "
+msgstr ""
+
+#: dh_popup/includes/editor-frontend-navbar.php:15
+#: dh_popup/includes/editor-navbar.php:29
+msgid "Templates"
+msgstr ""
+
+#: dh_popup/includes/editor-frontend.php:41
+#: dh_popup/includes/editor-navbar.php:34 dh_popup/includes/editor.php:91
+msgid "Preview"
+msgstr ""
+
+#: dh_popup/includes/editor-frontend.php:42 dh_popup/includes/editor.php:92
+msgid "Builder"
+msgstr ""
+
+#: dh_popup/includes/editor-frontend.php:43 dh_popup/includes/editor.php:93
+msgid ""
+"If you add this template, all your current changes will be removed. Are you "
+"sure you want to add template?"
+msgstr ""
+
+#: dh_popup/includes/editor-navbar.php:23
+msgid "Frontend Builder (beta)"
+msgstr ""
+
+#: dh_popup/includes/editor-navbar.php:40
+msgid "Update"
+msgstr ""
+
+#: dh_popup/includes/editor-templates.php:123
+msgid "Popup Templates"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor.tpl.php:37
+msgid "Loading, please wait..."
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor.tpl.php:39
+msgid "Crunching..."
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:10
+msgid "Page Settings"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:19
+msgid "Popup name"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:23
+msgid "Please enter page title"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:25
+#, php-format
+msgid ""
+"Change title of the current %s (Note: changes may not be displayed in a "
+"preview, but will take effect after saving page)."
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:29
+#: dh_popup/includes/meta-box.php:143
+msgid "Popup Width"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:33
+#: dh_popup/includes/meta-box.php:147
+msgid "Deafult 500px"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:37
+#: dh_popup/includes/meta-box.php:150
+msgid "Popup Height"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:41
+#: dh_popup/includes/meta-box.php:154
+msgid "Deafult null is auto height"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:45
+msgid "Custom CSS settings"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:49
+msgid ""
+"Enter custom CSS (Note: it will be outputted only on this particular page)."
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:60
+#: dh_popup/includes/targeting.php:248
+msgid "Close"
+msgstr ""
+
+#: dh_popup/includes/editor-templates/editor_frontend-post-settings.tpl.php:64
+msgid "Save changes"
+msgstr ""
+
+#: dh_popup/includes/form.php:40 dh_popup/includes/form.php:123
+#: dh_popup/includes/form.php:130
+msgid "Please fill in the required field."
+msgstr ""
+
+#: dh_popup/includes/form.php:41 dh_popup/includes/form.php:135
+msgid "Email address seems invalid."
+msgstr ""
+
+#: dh_popup/includes/form.php:42
+msgid "Validation errors occurred. Please confirm the fields."
+msgstr ""
+
+#: dh_popup/includes/form.php:43
+msgid "Config errors occurred. Please contact to admin."
+msgstr ""
+
+#: dh_popup/includes/form.php:44
+msgid "Subscribe success"
+msgstr ""
+
+#: dh_popup/includes/form.php:45
+msgid "Unknown error"
+msgstr ""
+
+#: dh_popup/includes/front-end.php:149
+msgid "Field name is required"
+msgstr ""
+
+#: dh_popup/includes/front-end.php:238 dh_popup/includes/log.php:392
+#: dh_popup/includes/post-types.php:23
+msgid "Edit Popup"
+msgstr ""
+
+#: dh_popup/includes/functions.php:15
+msgid "On page load"
+msgstr ""
+
+#: dh_popup/includes/functions.php:16
+msgid "When scroll on page"
+msgstr ""
+
+#: dh_popup/includes/functions.php:18
+msgid "When inactivity"
+msgstr ""
+
+#: dh_popup/includes/functions.php:19
+msgid "When click Element"
+msgstr ""
+
+#: dh_popup/includes/functions.php:23
+msgid "Select a event &hellip;"
+msgstr ""
+
+#: dh_popup/includes/functions.php:30
+msgid "Every time"
+msgstr ""
+
+#: dh_popup/includes/functions.php:31
+msgid "Once per session"
+msgstr ""
+
+#: dh_popup/includes/functions.php:32
+msgid "Once per"
+msgstr ""
+
+#: dh_popup/includes/functions.php:33
+msgid "Only once"
+msgstr ""
+
+#: dh_popup/includes/functions.php:39
+msgid "All page"
+msgstr ""
+
+#: dh_popup/includes/functions.php:40
+msgid "Home page"
+msgstr ""
+
+#: dh_popup/includes/functions.php:41
+msgid "Posts"
+msgstr ""
+
+#: dh_popup/includes/functions.php:42
+msgid "Pages"
+msgstr ""
+
+#: dh_popup/includes/functions.php:43
+msgid "Categories, Archive and other"
+msgstr ""
+
+#: dh_popup/includes/functions.php:49
+msgid "MailChimp"
+msgstr ""
+
+#: dh_popup/includes/functions.php:50
+msgid "Constant Contact"
+msgstr ""
+
+#: dh_popup/includes/functions.php:51
+msgid "AWeber"
+msgstr ""
+
+#: dh_popup/includes/functions.php:52
+msgid "ConvertKit"
+msgstr ""
+
+#: dh_popup/includes/functions.php:53
+msgid "GetResponse"
+msgstr ""
+
+#: dh_popup/includes/functions.php:54
+msgid "Campaign Monitor"
+msgstr ""
+
+#: dh_popup/includes/functions.php:55
+msgid "ActiveCampaign"
+msgstr ""
+
+#: dh_popup/includes/functions.php:56
+msgid "Mad Mimi"
+msgstr ""
+
+#: dh_popup/includes/functions.php:57
+msgid "Benchmarkemail"
+msgstr ""
+
+#: dh_popup/includes/functions.php:58
+msgid "StreamSend"
+msgstr ""
+
+#: dh_popup/includes/functions.php:61
+msgid "Select a type &hellip;"
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:19 dh_popup/includes/lib/helper.php:93
+#: dh_popup/includes/lib/helper.php:187 dh_popup/includes/lib/helper.php:239
+#: dh_popup/includes/lib/helper.php:287 dh_popup/includes/lib/helper.php:335
+#: dh_popup/includes/lib/helper.php:396 dh_popup/includes/lib/helper.php:460
+#: dh_popup/includes/lib/helper.php:519 dh_popup/includes/lib/helper.php:595
+msgid "Select a list &hellip;"
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:21
+#, php-format
+msgid "ID: %1$s - Name: %2$s"
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:24
+msgid "You have not created any lists at MailChimp"
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:27
+msgid "Unable to load MailChimp lists, check your API Key."
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:97
+msgid "You have not created any lists at Constant Contact"
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:193
+msgid "You have not created any lists at AWeber"
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:237
+msgid "Error connecting to API."
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:464
+msgid "You have not created any lists at Mad Mimi"
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:515
+msgid "Unable to load BenchmarkEmail lists."
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:570
+msgid "Select a audience&hellip;"
+msgstr ""
+
+#: dh_popup/includes/lib/helper.php:618
+msgid "Error subscribe"
+msgstr ""
+
+#: dh_popup/includes/log.php:17
+msgid "Popup Log"
+msgstr ""
+
+#: dh_popup/includes/log.php:17 dh_popup/includes/log.php:312
+msgid "Log"
+msgstr ""
+
+#: dh_popup/includes/log.php:76 dh_popup/includes/log.php:81
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: dh_popup/includes/log.php:168
+msgid "Go to the first page"
+msgstr ""
+
+#: dh_popup/includes/log.php:175
+msgid "Go to the previous page"
+msgstr ""
+
+#: dh_popup/includes/log.php:184
+msgid "Current page"
+msgstr ""
+
+#: dh_popup/includes/log.php:195
+msgid "Go to the next page"
+msgstr ""
+
+#: dh_popup/includes/log.php:202
+msgid "Go to the last page"
+msgstr ""
+
+#: dh_popup/includes/log.php:246
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: dh_popup/includes/log.php:256 dh_popup/includes/log.php:277
+#, php-format
+msgid "%s entry deleted"
+msgstr ""
+
+#: dh_popup/includes/log.php:292 dh_popup/includes/meta-box.php:455
+#: dh_popup/includes/post-types.php:22
+msgid "Popup"
+msgstr ""
+
+#: dh_popup/includes/log.php:293
+msgid "Email"
+msgstr ""
+
+#: dh_popup/includes/log.php:294
+msgid "Date"
+msgstr ""
+
+#: dh_popup/includes/log.php:295
+msgid "IP Address"
+msgstr ""
+
+#: dh_popup/includes/log.php:332 dh_popup/includes/log.php:424
+msgid "Bulk Actions"
+msgstr ""
+
+#: dh_popup/includes/log.php:333 dh_popup/includes/log.php:425
+#: dh_popup/includes/meta-box.php:1021 dh_popup/includes/meta-box.php:1096
+#: dh_popup/includes/targeting.php:246
+msgid "Delete"
+msgstr ""
+
+#: dh_popup/includes/log.php:399
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: dh_popup/includes/log.php:416
+msgid "No log found."
+msgstr ""
+
+#: dh_popup/includes/log.php:428
+msgid "Clear Log Data"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:19
+msgid "General settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:22
+msgid "Mail settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:74
+msgid "Open popup for event ?"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:79
+msgid ""
+"With event click Element, please set attribute data-popup-open="
+"\"{popup_ID}\" for a element, like a button, or href="
+"\"#popup_open_{popup_ID}\" to target a specific popup to display.Example: "
+"<button type=\"button\" data-popup-open=\"{popup_ID}\">Show Popup</button>"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:82
+#, php-format
+msgid "Open when user scroll % of page"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:86 dh_popup/includes/targeting.php:213
+msgid "Enter x % when customer scroll on page"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:89
+msgid "Seconds inactivity"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:93 dh_popup/includes/targeting.php:225
+msgid "Enter x seconds of inactivity"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:98
+msgid "Display in"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:103
+msgid "Select display in"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:110
+msgid "General Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:115
+msgid "Disable Popup on Mobile drivers"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:120
+msgid "Disable responsive popup ?"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:125
+msgid "Popup position"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:129
+msgid "Left Top"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:130
+msgid "Center Top"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:131
+msgid "Right Top"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:132
+msgid "Left Center"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:133
+msgid "Center Center"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:134
+msgid "Right Center"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:135
+msgid "Left Bottom"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:136
+msgid "Center Bottom"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:137
+msgid "Right Bottom"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:140
+msgid "Select popup position."
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:157
+msgid "Popup content background"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:160
+msgid ""
+"You can read more CSS background properties in <a href=\"https://www."
+"w3schools.com/css/css_background.asp\">w3c specification</a>"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:166
+msgid "Open Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:185
+msgid "Display mode"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:190
+msgid "Select display mode"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:215
+msgid "Open delay X seconds"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:219
+msgid "Enter x seconds when customer on page"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:222
+msgid "Clear Popup Cookie"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:225
+msgid "Clear popup cookie to test the popup on your live website."
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:231
+msgid "Close Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:236
+msgid "Close Popup type ?"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:239
+msgid "Default"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:240
+msgid "Form submit success"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:244
+msgid ""
+"Select close popup type, default close popup by close button or close popup "
+"after subscribe newsletter."
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:247
+msgid "Auto Close Popup"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:251
+msgid "Close popup in x seconds"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:254
+msgid "Hide Close Popup button"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:259
+msgid "Close Popup button color"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:267
+msgid "Overlay Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:272
+msgid "Type"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:275
+msgid "Default (Opacity)"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:277
+msgid "Image background"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:282
+msgid "Overlay Image Background"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:287
+msgid "Full screen popup"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:292
+msgid "Disable overlay click"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:300
+msgid "Redirect Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:305
+msgid "Redirect URL"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:308
+msgid ""
+"Enter the redirect URL start with http://. After successful form submission "
+"user is redirected to this URL. Leave blank to stay on the same page."
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:314
+msgid "Mailing Newsletter Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:319
+msgid "Use Mailing Newsletter"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:324
+msgid "No"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:325
+msgid "Yes"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:327
+#, php-format
+msgid ""
+"To use this feature, you need add <a href=\"%s\" target=\"_blank\">Setting "
+"Mailing</a>"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:330
+msgid "Mailing List"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:334
+msgid "No select to use global settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:340
+msgid "Admin Notification Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:345
+msgid "Enable Admin Notification"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:350
+msgid "Admin email"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:356 dh_popup/includes/meta-box.php:405
+msgid "Sender"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:362 dh_popup/includes/meta-box.php:411
+msgid "Subject"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:366 dh_popup/includes/meta-box.php:387
+#: dh_popup/includes/meta-box.php:415 dh_popup/includes/meta-box.php:428
+msgid "You can use shortcodes in setting: "
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:369
+msgid "Additional Headers"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:375 dh_popup/includes/meta-box.php:418
+msgid "Message Body"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:387 dh_popup/includes/meta-box.php:428
+msgid ""
+"To use form fields in email message body, please enter field name as "
+"variables [field_name] in message body."
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:390 dh_popup/includes/meta-box.php:431
+msgid "Use HTML content type"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:395
+msgid "Confirm Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:400
+msgid "Enable confirm email"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:445 dh_popup/includes/settings.php:35
+#: dh_popup/includes/settings.php:354
+msgid "Popup Settings"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:630
+msgid "days"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:665
+msgid "Background Color"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:676
+msgid "Background Repeat"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:687
+msgid "Background Size"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:698
+msgid "Background Attachment"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:720
+msgid "Background Position"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:730
+msgid "Background Image"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:734 dh_popup/includes/meta-box.php:786
+#: dh_popup/includes/meta-box.php:1190 dh_popup/includes/meta-box.php:1244
+msgid "Change Image"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:734 dh_popup/includes/meta-box.php:797
+#: dh_popup/includes/meta-box.php:1190 dh_popup/includes/meta-box.php:1255
+msgid "Select Image"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:738 dh_popup/includes/meta-box.php:1196
+msgid "Clear Image"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:759 dh_popup/includes/meta-box.php:1217
+msgid "Select or Upload your Image"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:761 dh_popup/includes/meta-box.php:1149
+#: dh_popup/includes/meta-box.php:1219
+msgid "Select"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:887
+msgid "Select a sidebar..."
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:1001
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:1003
+msgid "Add to Gallery"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:1106
+msgid "Add Gallery Images"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:1120 dh_popup/includes/meta-box.php:1160
+msgid "Change Media"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:1120 dh_popup/includes/meta-box.php:1171
+msgid "Select Media"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:1125
+msgid "Clear"
+msgstr ""
+
+#: dh_popup/includes/meta-box.php:1147
+msgid "Select or Upload your Media"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:20
+msgid "Add New Popup"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:21
+msgid "Popups"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:24
+msgid "View Popup"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:25
+msgid "Search Popup"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:26
+msgid "No Popup found"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:27
+msgid "No Popup found in Trash"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:48
+msgid "Add Campaign"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:49 dh_popup/includes/post-types.php:50
+msgid "Campaign"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:51
+msgid "Edit Campaign"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:52
+msgid "View Campaign"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:53
+msgid "Search"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:54
+msgid "No Campaign found"
+msgstr ""
+
+#: dh_popup/includes/post-types.php:55
+msgid "No Campaign found in Trash"
+msgstr ""
+
+#: dh_popup/includes/settings.php:35
+msgid "Settings"
+msgstr ""
+
+#: dh_popup/includes/settings.php:41
+msgid "General"
+msgstr ""
+
+#: dh_popup/includes/settings.php:42
+msgid "Mailing setting"
+msgstr ""
+
+#: dh_popup/includes/settings.php:56
+msgid "Google Analytics tracking"
+msgstr ""
+
+#: dh_popup/includes/settings.php:57
+msgid ""
+"Send popup events to Google Analytics. Google Analytics must be installed on "
+"your website."
+msgstr ""
+
+#: dh_popup/includes/settings.php:61
+msgid "Plugin run in action"
+msgstr ""
+
+#: dh_popup/includes/settings.php:70
+msgid "Disable Log"
+msgstr ""
+
+#: dh_popup/includes/settings.php:71
+msgid "Disable log subscribed data."
+msgstr ""
+
+#: dh_popup/includes/settings.php:75
+msgid "Disable Stats"
+msgstr ""
+
+#: dh_popup/includes/settings.php:76
+msgid "Disable stats data."
+msgstr ""
+
+#: dh_popup/includes/settings.php:80
+msgid "Disable Advanced Display"
+msgstr ""
+
+#: dh_popup/includes/settings.php:81
+msgid "Disable advanced display."
+msgstr ""
+
+#: dh_popup/includes/settings.php:91
+msgid "Mailing List Type"
+msgstr ""
+
+#: dh_popup/includes/settings.php:112
+msgid "MailChimp API Key"
+msgstr ""
+
+#: dh_popup/includes/settings.php:113
+msgid ""
+"Enter your API Key. <a href=\"http://admin.mailchimp.com/account/api-key-"
+"popup\" target=\"_blank\">Get your API key</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:117
+msgid "MailChimp List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:119
+msgid ""
+"After you add your MailChimp API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:123 dh_popup/includes/settings.php:244
+msgid "Enable Double Opt-In"
+msgstr ""
+
+#: dh_popup/includes/settings.php:124
+msgid ""
+"Learn more about <a href='http://kb.mailchimp.com/article/how-does-confirmed-"
+"optin-or-double-optin-work' target='_blank'>Double Opt-in</a>."
+msgstr ""
+
+#: dh_popup/includes/settings.php:128 dh_popup/includes/settings.php:165
+msgid "Send Welcome Email"
+msgstr ""
+
+#: dh_popup/includes/settings.php:129
+msgid ""
+"If your Double Opt-in is false and this is true, MailChimp will send your "
+"lists Welcome Email if this subscribe succeeds - this will not fire if "
+"MailChimp ends up updating an existing subscriber. If Double Opt-in is true, "
+"this has no effect. Learn more about <a href='http://blog.mailchimp.com/"
+"sending-welcome-emails-with-mailchimp/' target='_blank'>Welcome Emails</a>."
+msgstr ""
+
+#: dh_popup/includes/settings.php:133
+msgid "Group Name"
+msgstr ""
+
+#: dh_popup/includes/settings.php:134
+msgid ""
+"Optional: Enter the name of the group. Learn more about <a href=\"http://"
+"mailchimp.com/features/groups/\" target=\"_blank\">Groups</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:138
+msgid "Group"
+msgstr ""
+
+#: dh_popup/includes/settings.php:139
+msgid "Optional: Comma delimited list of interest groups to add the email to."
+msgstr ""
+
+#: dh_popup/includes/settings.php:144
+msgid "Replace Interests"
+msgstr ""
+
+#: dh_popup/includes/settings.php:145
+msgid ""
+"Whether MailChimp will replace the interest groups with the groups provided "
+"or add the provided groups to the member's interest groups."
+msgstr ""
+
+#: dh_popup/includes/settings.php:151
+msgid "Constant Contact username"
+msgstr ""
+
+#: dh_popup/includes/settings.php:155
+msgid "Constant Contact password"
+msgstr ""
+
+#: dh_popup/includes/settings.php:159
+msgid "Constant Contact List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:161
+msgid ""
+"After you add your username and password above and save it this list will be "
+"populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:171
+msgid "AWeber authorization code"
+msgstr ""
+
+#: dh_popup/includes/settings.php:172
+msgid ""
+"Enter authorization code. <a href=\"https://auth.aweber.com/1.0/oauth/"
+"authorize_app/6e8b6b59\" target=\"_blank\">Get your authorization code</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:176
+msgid "AWeber List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:178
+msgid ""
+"After you add authorization code above and save it this list will be "
+"populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:184
+msgid "ConvertKit API Key"
+msgstr ""
+
+#: dh_popup/includes/settings.php:185
+msgid ""
+"Enter api key. <a href=\"https://app.convertkit.com/account/edit\" target="
+"\"_blank\">Get your ConvertKit api key</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:189
+msgid "ConvertKit Form"
+msgstr ""
+
+#: dh_popup/includes/settings.php:191 dh_popup/includes/settings.php:204
+msgid "After you add api key above and save it this list will be populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:197
+msgid "GetResponse API Key"
+msgstr ""
+
+#: dh_popup/includes/settings.php:198
+msgid ""
+"Enter api key. <a href=\"www.getresponse.com/learning-center/glossary/api-"
+"key.html\" target=\"_blank\">Get your api key</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:202
+msgid "GetResponse List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:210
+msgid "CampaignMonitor API Key"
+msgstr ""
+
+#: dh_popup/includes/settings.php:211
+msgid ""
+"Enter Client ID. <a href=\"https://www.campaignmonitor.com/api/getting-"
+"started/#your-client-id\" target=\"_blank\">Get your api key</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:215
+msgid "CampaignMonitor Client ID"
+msgstr ""
+
+#: dh_popup/includes/settings.php:216
+msgid ""
+"Enter Client ID. <a href=\"https://www.campaignmonitor.com/api/getting-"
+"started/#your-client-id\" target=\"_blank\">Get your client id</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:220
+msgid "CampaignMonitor List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:222
+msgid ""
+"After you add Client ID and API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:228
+msgid "ActiveCampaign API URL"
+msgstr ""
+
+#: dh_popup/includes/settings.php:229
+msgid ""
+"Enter Api URL. <a href=\"http://www.activecampaign.com/help/using-the-api/\" "
+"target=\"_blank\">Get your api url</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:233
+msgid "ActiveCampaign Api Key"
+msgstr ""
+
+#: dh_popup/includes/settings.php:234
+msgid ""
+"Enter Api Key. <a href=\"http://www.activecampaign.com/help/using-the-api/\" "
+"target=\"_blank\">Get your api key</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:238
+msgid "ActiveCampaign List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:240
+msgid ""
+"After you add API URL and API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:245
+msgid ""
+"Learn more about <a href='https://help.activecampaign.com/hc/en-us/"
+"articles/115000853310-Double-opt-in-vs-single-opt-in' target='_blank'>Double "
+"Opt-in</a>."
+msgstr ""
+
+#: dh_popup/includes/settings.php:251
+msgid "Mad Mimi Username/Email"
+msgstr ""
+
+#: dh_popup/includes/settings.php:255
+msgid "Mad Mimi Api Key"
+msgstr ""
+
+#: dh_popup/includes/settings.php:259
+msgid "Mad Mimi List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:261
+msgid ""
+"After you add Username and Api Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:267
+msgid "BenchmarkEmail Api Key"
+msgstr ""
+
+#: dh_popup/includes/settings.php:271
+msgid "BenchmarkEmail List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:273
+msgid "After you add Api Key above and save it this list will be populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:279
+msgid "StreamSend Login ID"
+msgstr ""
+
+#: dh_popup/includes/settings.php:280
+msgid ""
+"Enter Login ID. <a href=\"https://app.streamsend.com/account/settings\" "
+"target=\"_blank\">Get your login id</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:284
+msgid "StreamSend Api Key"
+msgstr ""
+
+#: dh_popup/includes/settings.php:285
+msgid ""
+"Enter Api Key. <a href=\"https://app.streamsend.com/account/settings\" "
+"target=\"_blank\">Get your api key</a>"
+msgstr ""
+
+#: dh_popup/includes/settings.php:289
+msgid "StreamSend audiences"
+msgstr ""
+
+#: dh_popup/includes/settings.php:291
+msgid ""
+"After you add Login ID and Api Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:295
+msgid "StreamSend List"
+msgstr ""
+
+#: dh_popup/includes/settings.php:297
+msgid ""
+"After you select StreamSend audiences above and save it this list will be "
+"populated."
+msgstr ""
+
+#: dh_popup/includes/settings.php:419
+msgid "Save Changes"
+msgstr ""
+
+#: dh_popup/includes/settings.php:505
+msgid "Load data"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:96
+msgid "Advanced Display"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:154 dh_popup/includes/targeting.php:302
+msgid "Add New"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:162
+msgid "Display:"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:166 dh_popup/includes/targeting.php:315
+msgid "None"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:208
+msgid "Scroll offset:"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:220
+msgid "Seconds inactivity:"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:231
+msgid "Display in:"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:251
+msgid "Save"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:275
+msgid "Add new"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:292
+#, php-format
+msgid "You can add multiple Popup or Campaign display: %s"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:297
+msgid ""
+"Set attribute data-popup-open=\"{popup_ID}\" for a element, like a button, "
+"or href=\"#popup_open_{popup_ID}\" to target a specific popup to display."
+"Example: <button type=\"button\" data-popup-open=\"{popup_ID}\">Show Popup</"
+"button>"
+msgstr ""
+
+#: dh_popup/includes/targeting.php:313
+msgid "Display"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:28
+msgid "Label"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:34
+msgid "Name"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:37
+msgid ""
+"Field name is required.  Please enter single word, no spaces, no start with "
+"number. Underscores(_) allowed"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:41
+msgid "Field type"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:51
+msgid "Default value"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:56
+msgid "Placeholder text"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:61
+msgid "Add icon?"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:67
+msgid "Help text"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:69
+msgid "This is the help text for this form control."
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:73
+msgid "Required ? "
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:76 dh_popup/includes/vc-map.php:84
+msgid "Yes, please"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:81
+msgid "Read only ? "
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:90
+msgid "Extra class name"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:92
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:96
+msgid "Width"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:98
+msgid "Enter height of field, ex: 30px, 100%..."
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:99 dh_popup/includes/vc-map.php:106
+#: dh_popup/includes/vc-map.php:112
+msgid "Design Options"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:103
+msgid "Height"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:105
+msgid "Enter height of field, ex: 30px"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:110
+msgid "CSS box"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:117
+msgid "Popup Text Field"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:119
+msgid "Popup Field"
+msgstr ""
+
+#: dh_popup/includes/vc-map.php:121
+msgid "Text field for Popup builder"
+msgstr ""

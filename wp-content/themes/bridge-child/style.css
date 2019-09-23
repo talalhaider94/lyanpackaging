@@ -1,0 +1,53 @@
+/*
+Theme Name: Bridge Child
+Theme URI: http://demo.qodeinteractive.com/bridge/
+Description: A child theme of Bridge Theme
+Author: Qode Interactive
+Author URI: http://www.qodethemes.com/
+Version: 1.0.0
+Template: bridge
+*/
+@import url("../bridge/style.css");
+
+@media (max-width: 1000px) {
+.custom_reverse_order .q_elements_holder {
+        display: -webkit-flex; 
+        -webkit-flex-direction: column-reverse; 
+        display: -webkit-flex; 
+        display: -webkit-flex;
+        display: flex; 
+        -ms-flex-direction: column-reverse; 
+        -webkit-flex-direction: column-reverse; -ms-flex-direction: column-reverse;
+        -webkit-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+}}
+
+
+.pbd {
+  background-color: #9ac349;
+  padding: 12px;
+  color: #ffffff;
+  margin: 24px 0;
+}
+.pbd h2 {
+  margin-top: 0;
+  color: #ffffff;
+  font-size: 24px;
+}
+.pbd p{
+	color: #fff;
+	margin-top: 8px;
+	margin-bottom: 10px;
+}
+.table--pbd {
+  width: 100%;
+}
+.table--pbd th,
+.table--pbd td {
+  width: 50%;
+  padding-bottom: 6px;
+  color: #fff !important
+}
+.table--pbd th {
+  font-weight: normal;
+}
